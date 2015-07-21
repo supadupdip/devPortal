@@ -1,0 +1,43 @@
+New To-do Created
+   on {{Project Name}}
+   by {{Display Name}}
+New Issue Created
+  on {{Project Name}}
+  by {{Display Name}}
+New Enhancement Created
+  on {{Project Name}}
+  by {{Display Name}}
+
+
+To-do Updated
+  on {{Project Name}}
+  by {{Display Name}}
+Issue Updated
+  on {{Project Name}}
+  by {{Display Name}}
+Enhancement Updated
+  on {{Project Name}}
+  by {{Display Name}}
+
+To-do Closed
+  on {{Project Name}}
+  by {{Display Name}}
+Issue Closed
+  on {{Project Name}}
+  by {{Display Name}}
+Enhancement Updated
+  on {{Project Name}}
+  by {{Display Name}}
+
+New Project Added
+{{Project Name}}
+by {{Display Name}}
+
+Project Information Updated
+{{Project Name}}
+by {{Display Name}}
+
+
+New Link Added
+  on {{Project Name}}
+  by {{Display Name}}
